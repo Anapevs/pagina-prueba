@@ -1,9 +1,14 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+
 body {
     font-family: Arial, sans-serif;
 }
 
 header {
-    background-color: #007BFF;
+    background-color: #1bb896;
     color: white;
     padding: 10px 20px;
     text-align: center;
